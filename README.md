@@ -16,28 +16,28 @@ This is my **review** project.
     -Images in inspiration folder 
 
 ## Content List
-Global Navigation + Contents
-Local Navigation + Contents
-Search
-Program title
-course code
-Apply Now / Domestic & International
-Contextual navigation
-Enroll now
-images
-Footer
-Program Ooerview
-Skills Learned
-how to qualify & apply
-Fees
-Career opportunities / Qualifications
-Program 
-Exposure
-Shots / Work / Past Projects In and out of program
-Bio Student Bio
-Skills
-Contact
-Education 
+-Global Navigation + Contents
+-local Navigation + Contents
+-Search
+-Program title
+-course code
+-Apply Now / Domestic & International
+-Contextual navigation
+-Enroll now
+-images
+-Footer
+-Program Ooerview
+-Skills Learned
+-how to qualify & apply
+-Fees
+-Career opportunities / Qualifications
+-Program 
+-Exposure
+-Shots / Work / Past Projects In and out of program
+-Bio Student Bio
+-Skills
+-Contact
+-Education 
 
 
 

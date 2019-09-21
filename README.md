@@ -16,9 +16,37 @@ This is my **review** project.
     -Images in inspiration folder 
 
 ## Content List
-    -Global Navigation + Contents
-    -local Navigation + Contents
-    -Search
+-Global Navigation
+    -Logo / Home
+    -Portfolio
+    -Education
+    -Qualifications / Careers / Postgrad oppourtunities
+    -Admissions
+    -
+    
+-Local Navigation 
+    - Contents to accomidate and complement for global navigation selections.
+
+-Body
+    -(H1)Interaction Design G103 
+    -(H2)GBC School of Design
+    -(H3)Program Overview
+    -(H4)
+    -(H4)Skills Learned as an IDD Graduate
+    -Program Comparison
+
+-Footer
+    -Apply
+    -Visit Campus
+    -Connect
+    -Giving
+    -International
+    -Contact Us
+    -About GBC
+    -A to Z Index
+    -Socail Icons
+
+-Notes / Possible Content to use
     -Program title
     -course code
     -Apply Now / Domestic & International

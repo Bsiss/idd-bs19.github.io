@@ -17,12 +17,12 @@ This is my **review** project.
 
 ## Content List
 -Global Navigation
-    -Logo / Home
-    -Portfolio
-    -Education
-    -Qualifications / Careers / Postgrad oppourtunities
-    -Admissions
-    -
+    Logo / Home
+    Portfolio
+    Education
+    Qualifications / Careers / Postgrad oppourtunities
+    Admissions
+    
     
 -Local Navigation 
     - Contents to accomidate and complement for global navigation selections.

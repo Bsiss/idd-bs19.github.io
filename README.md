@@ -40,12 +40,12 @@ This is my **review** project.
     -Apply
     -Visit Campus
     -Connect*
-    -Giving
+    -Disciplins
     -Contact Us*
-    -About GBC
+    -About GBC*
     -A to Z Index
-    -Socail Icons
-
+    -Socail Icons*
+<!--scoial icons or text?-->
 - Buttons
     -Enroll Button
     -Possibly a View Course Package Button, request

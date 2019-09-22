@@ -14,6 +14,7 @@ This is my **review** project.
     -images in inspiration folder 
 - [Navigation Structure](https://dribbble.com/shots/6710893-News)
     -Images in inspiration folder 
+- [General Assembly](https://generalassemb.ly/education/learn-user-experience-design-online)
 
 ## Content List
 -Global Navigation
@@ -44,6 +45,10 @@ This is my **review** project.
     -About GBC
     -A to Z Index
     -Socail Icons
+
+- Buttons
+    -Enroll Button
+    -Possibly a View Course Package Button, request
 
 -Notes / Possible Content to use
     -Program title

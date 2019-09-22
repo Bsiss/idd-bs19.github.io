@@ -38,10 +38,9 @@ This is my **review** project.
 -Footer
     -Apply
     -Visit Campus
-    -Connect
+    -Connect*
     -Giving
-    -International
-    -Contact Us
+    -Contact Us*
     -About GBC
     -A to Z Index
     -Socail Icons
@@ -51,7 +50,6 @@ This is my **review** project.
     -course code
     -Apply Now / Domestic & International
     -Contextual navigation
-    -Enroll now
     -images
     -Footer
     -Program Ooerview

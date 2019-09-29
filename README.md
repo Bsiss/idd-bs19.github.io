@@ -73,6 +73,7 @@ This is my **review** project.
  ## Content Citation
 
  [skills learned] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+ [Educators] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
 
 
 

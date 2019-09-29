@@ -1,3 +1,26 @@
+.inquire {
+	width: 6em;
+	height: 6em;
+	background-color: #F25050;;
+	color: #fff;
+	border: 0;
+	border-radius: 50%;
+	box-shadow:0 0 1em rgba(0,0,0,0.4);
+	text-align: center;
+	line-height: em;
+	transition: all 0.3s;
+	cursor: pointer;
+	position: fixed;
+	top: 5em;
+	right: 1em;
+	z-index: 1;
+}
+
+
+
+.button:hover {
+	background: #F2D64B;
+}
 .container {
 	width: 80%;
 	margin: 0 auto;
@@ -33,7 +56,7 @@ nav a{
 	text-transform: uppercase;
 }
 nav a:hover {
-	color: #000;
+	color: #F2D64B;
 }
 nav a::before {
 	content: '';
@@ -68,6 +91,7 @@ h2 {
 }
 h3 {
 	font-family: 'Poppins', sans-serif;
+	color: #F2D64B;
 }
 a {
 	font-family: 'Poppins', sans-serif;
@@ -118,6 +142,7 @@ footer {
 .section-container {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+	padding-top: 25px;
 }
 
 .enroll-buttons {

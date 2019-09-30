@@ -74,6 +74,7 @@ This is my **review** project.
 
  [skills learned] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
  [Educators] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+ [Exposure] (https://www.georgebrown.ca/giving/school-of-design-investment-brochure.pdf)
 
 
 

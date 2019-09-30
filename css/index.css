@@ -1,3 +1,9 @@
+.flex.flex-3 article {
+    position: relative;
+	width: 28%;
+	display: center;
+}
+
 .inquire {
 	width: 6em;
 	height: 6em;
@@ -14,10 +20,13 @@
 	top: 5em;
 	right: 1em;
 	z-index: 1;
+	padding-top: 4px;
 }
 
 
-
+.educatorImg {
+	box-shadow:0 0 1em rgba(0,0,0,0.4);
+}
 .button:hover {
 	background: #F2D64B;
 }
@@ -176,7 +185,4 @@ footer {
 	text-decoration: none;
 	display: block;
   }
-img {
-		width: 100%;
-		height: auto;
-}
+

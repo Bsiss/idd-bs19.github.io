@@ -4,6 +4,9 @@ This is our course site!
 This is my **review** project.
 
 ## Inspiration
+
+- [hamburger menu](https://www.youtube.com/watch?v=DZg6UfS5zYg)
+
 - [IDD Course Site](https://)
 
 - [blackboard](https://bb-gbc.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1)
@@ -72,11 +75,13 @@ This is my **review** project.
 
  ## Content Citation
 
- [skills learned] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+ [skills-learned] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
  [Educators] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
- [Exposure] (https://www.georgebrown.ca/giving/school-of-design-investment-brochure.pdf)
+ [Why-Choose] (https://www.georgebrown.ca/giving/school-of-design-investment-brochure.pdf)
+ [] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
 
+[Career-Preparation] (https://generalassemb.ly/education/user-experience-design-immersive/toronto) +
+(https://brainstation.io/course/toronto/user-experience-immersive)
 
-
-
+[Career-outcomes] (https://www.georgebrown.ca/programs/interaction-design-and-development-program-g103/)
 

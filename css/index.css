@@ -1,9 +1,20 @@
-.flex.flex-3 article {
-    position: relative;
-	width: 28%;
-	display: center;
+
+
+
+
+.box-container {
+	width: 250px;
+  height: auto;
+  margin: 10px;
+  padding: 40px;
+  display: inline-grid;
+  overflow: hidden;
 }
 
+.box-image {
+	width: 250px;
+  height: auto;
+}
 .inquire {
 	width: 6em;
 	height: 6em;
@@ -22,72 +33,12 @@
 	z-index: 1;
 	padding-top: 4px;
 }
-
-
 .educatorImg {
 	box-shadow:0 0 1em rgba(0,0,0,0.4);
 }
 .button:hover {
 	background: #F2D64B;
 }
-.container {
-	width: 80%;
-	margin: 0 auto;
-}
-header {
-	background: #000000;
-}
-header::after {
-	content: '';
-	display: table;
-	clear: both;
-}
-.logo {
-	float: left;
-}
-nav {
-	float: right;
-}
-nav ul {
-	margin: 0%;
-	padding: 0%;
-	list-style: none;
-}
-nav li {
-	display: inline-block;
-	margin-left: 20px;
-	padding-top: 35px;
-	position: relative;
-}
-nav a{
-	color: gainsboro;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-nav a:hover {
-	color: #F2D64B;
-}
-nav a::before {
-	content: '';
-	display: block;
-	height: 5px;
-	background-color: #F25050;
-	position: absolute;
-	top: 0;
-	width: 0%;
-	transition: all ease-in-out 250ms;
-	
-}
-
-nav a:hover::before {
-	width: 100%;
-
-}
-
-
-
-
-
 body {
 	background-color: #4177A6;
 	color: #FCFAFF;
@@ -101,6 +52,9 @@ h2 {
 h3 {
 	font-family: 'Poppins', sans-serif;
 	color: #F2D64B;
+}
+h4 {
+	font-family: 'Poppins', sans-serif;
 }
 a {
 	font-family: 'Poppins', sans-serif;
@@ -184,5 +138,12 @@ footer {
 	color: #fff;
 	text-decoration: none;
 	display: block;
+  }
+
+
+
+  @media screen and (min-width:750px) {
+
+	
   }
 

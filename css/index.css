@@ -1,16 +1,10 @@
-/*welcome header*/
 :root {
-	--primary-color: rgba(13,110,139,0.75);
+	--primary-color: rgba(242, 80, 80,0.75);
 	--overlay-color:rgba(24, 39, 51, 0.58);
 	--menu-speed: 0.75s;
+	--secondary-color: rgba(242, 214, 75,0.75);
 }
-
-body {
-	background-color: #4177A6;
-	color: #FCFAFF;
-	font-family: 'Poppins', sans-serif;
-}
-
+/*welcome header*/
 .container {
 	max-width: 960px;
 	margin: auto;
@@ -19,7 +13,7 @@ body {
 }
 
 .showcase {
-	background-color: var(--primary-color);
+	background-color: var(--overlay-color);
 	color: #fff;
 	height: 100vh;
 	position: relative;
@@ -35,6 +29,7 @@ body {
 	height: 100%;
 	z-index: -1;
 }
+
 
 .showcase .showcase-inner {
 	display: flex;
@@ -92,7 +87,7 @@ body {
 	width: 60px;
 	height: 60px;
 	padding: 1rem;
-	background: var(--primary-color);
+	background: var(--overlay-color);
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -140,12 +135,28 @@ body {
 	transform: rotate(225deg);
 }
 
+/*show/hide menu*/
+
+.menu-wrap .toggler:checked ~ .menu {
+	visibility: visible;
+}
+
+.menu-wrap .toggler:checked ~ .menu > div {
+	transform: scale(1);
+	transition-duration: var(--menu-speed);
+}
+
+.menu-wrap .toggler:checked ~ .menu > div > div {
+	transition: o.4s ease;
+	opacity: 1;
+}
 .menu-wrap .menu {
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100;
+	visibility: hidden;
 	overflow: hidden;
 	display: flex;
 	align-items: center;
@@ -154,14 +165,13 @@ body {
 
 .menu-wrap .menu > div {
 	background: var(--overlay-color);
-	border-radius: 50%;
-	width: 200vw;
-	height: 200vw;
+	width: 100%;
+	height: 100%;
 	display: flex;
 	flex: none;
 	align-items: center;
 	justify-content: center;
-	/*transform: scale(0);*/
+	transform: scale(0);
 	transition: all 0.4s ease;
 }
 
@@ -169,7 +179,7 @@ body {
 	text-align: center;
 	max-width: 90vh;
 	max-height: 100vh;
-	/*opacity: 0;*/
+	opacity: 0;
 	transition: opacity 0.4s ease;
 }
 
@@ -186,10 +196,40 @@ body {
 	transition: color 0.4s ease;
 }
 
+/*Main Body*/
+.section-container {
+	text-align: center;
+}
+.text-block {
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
 
+.logo {
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	position: fixed;
+  	right: 90px;
+  	width: 300px;
+  	border: 3px solid #fff;
+  	z-index: 1;
+}
 
-
-/*Body*/
+.career-prep {
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+.title {
+	position: relative;
+}
+body {
+	background-color: #4177A6;
+	color: #FCFAFF;
+	font-family: 'Poppins', sans-serif;
+}
 .box-container {
 	width: 250px;
   height: auto;
@@ -203,13 +243,14 @@ body {
 	width: 250px;
   height: auto;
 }
+/*Chat*/
 .inquire {
 	width: 6em;
 	height: 6em;
 	background-color: #F25050;;
 	color: #fff;
 	border: 0;
-	border-radius: 50%;
+	border-radius: 60%;
 	box-shadow:0 0 1em rgba(0,0,0,0.4);
 	text-align: center;
 	line-height: em;
@@ -219,8 +260,8 @@ body {
 	top: 5em;
 	right: 1em;
 	z-index: 1;
-	padding-top: 4px;
 }
+
 .educatorImg {
 	box-shadow:0 0 1em rgba(0,0,0,0.4);
 }
@@ -230,30 +271,6 @@ body {
 body {
 	background-color: #4177A6;
 	color: #FCFAFF;
-}
-h1 {
-	font-family: 'Poppins', sans-serif;
-}
-h2 {
-	font-family: 'Poppins', sans-serif;
-}
-h3 {
-	font-family: 'Poppins', sans-serif;
-	color: #F2D64B;
-}
-h4 {
-	font-family: 'Poppins', sans-serif;
-}
-a {
-	font-family: 'Poppins', sans-serif;
-}
-p {
-	font-family: 'Poppins', sans-serif;
-}
-.detail-title {
-	font-family: 'Poppins', sans-serif;
-}
-footer {
 	font-family: 'Poppins', sans-serif;
 }
 .button {

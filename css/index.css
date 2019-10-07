@@ -1,6 +1,8 @@
+
 :root {
 	--primary-color: rgba(242, 80, 80,0.75);
 	--overlay-color:rgba(24, 39, 51, 0.58);
+	--overlay-colortwo:rgba(24, 39, 51, 0.90);
 	--menu-speed: 0.75s;
 	--secondary-color: rgba(242, 214, 75,0.75);
 }
@@ -164,7 +166,7 @@
 }
 
 .menu-wrap .menu > div {
-	background: var(--overlay-color);
+	background: var(--overlay-colortwo);
 	width: 100%;
 	height: 100%;
 	display: flex;
@@ -187,7 +189,7 @@
 	list-style: none;
 	color: #fff;
 	font-size: 1.5rem;
-	padding: 1rem;
+	padding: 1rem;;
 }
 
 .menu-wrap .menu > div > div > ul > li > a {
@@ -211,9 +213,10 @@
 	justify-content: center;
 	text-align: center;
 	position: fixed;
-  	right: 90px;
+  	right: 5px;
   	width: 300px;
-  	border: 3px solid #fff;
+	  border: 3px solid #000000;
+	  color: #fff;
   	z-index: 1;
 }
 
@@ -231,6 +234,8 @@ body {
 	font-family: 'Poppins', sans-serif;
 }
 .box-container {
+	background-color:#000;
+	color: #FCFAFF;
 	width: 250px;
   height: auto;
   margin: 10px;
@@ -239,11 +244,14 @@ body {
   overflow: hidden;
 }
 
+h3 {
+	color: #F2D64B;
+}
 .box-image {
 	width: 250px;
   height: auto;
 }
-/*Chat*/
+/*Chat
 .inquire {
 	width: 6em;
 	height: 6em;
@@ -260,7 +268,7 @@ body {
 	top: 5em;
 	right: 1em;
 	z-index: 1;
-}
+}*/
 
 .educatorImg {
 	box-shadow:0 0 1em rgba(0,0,0,0.4);
@@ -309,7 +317,6 @@ body {
 	grid-template-columns: 1fr 1fr;
 	padding-top: 25px;
 }
-
 .enroll-buttons {
 	display: grid;
 }
@@ -345,8 +352,13 @@ body {
 
 
 
-  @media screen and (min-width:750px) {
+  @media screen and (min-width: 600px) {
+	body {
+	  background-color: red;
+	}
 
 	
-  }
+	
+	
+	}
 

@@ -352,13 +352,9 @@ body {
 
 
 
+ /*Desktop View*/
+
   @media screen and (min-width: 600px) {
 	body {
-	  background-color: red;
+	  
 	}
-
-	
-	
-	
-	}
-

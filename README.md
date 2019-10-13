@@ -20,18 +20,18 @@ This is my **review** project.
 - [General Assembly](https://generalassemb.ly/education/learn-user-experience-design-online)
 
 ## Content List
--Global Navigation
-    Logo / Home
-    Portfolio
-    Education
-    Qualifications / Careers / Postgrad oppourtunities
-    Admissions
+- Global Navigation
+- Logo / Home
+- Portfolio
+- Education
+- Qualifications / Careers / Postgrad - oppourtunities
+- Admissions
     
     
--Local Navigation 
+- Local Navigation 
     - Contents to accomidate and complement for global navigation selections.
 
--Body
+- Body
     -(H1)Interaction Design G103 
     -(H2)GBC School of Design
     -(H3)Program Overview

@@ -32,15 +32,15 @@ This is my **review** project.
 - Local Navigation 
     - [Contents to accomidate and complement for global navigation selections.]
 
-- Body
-    -[hero section]
-    -[(H1)Interaction Design G103 info]
-    -[Enroll buttonsxs]
-    -[(H2)GBC School of Design]
-    -
-    -(H4)
-    -(H4)Skills Learned as an IDD Graduate
-    -Program Comparison
+## Body
+- [hero section]
+- [(H1)Interaction Design G103 info]
+- [Enroll buttonsxs]
+- [(H2)GBC School of Design]
+-
+- (H4)
+- (H4)Skills Learned as an IDD Graduate
+- Program Comparison
 
 -Footer
     -Apply

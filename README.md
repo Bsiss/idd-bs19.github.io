@@ -48,9 +48,9 @@ This is my **review** project.
 
 ## Footer
 - Connect
- - Twitter / Facebook / Instagram
+-Twitter / Facebook / Instagram
 - Contact Us
- - Number / email / 
+ -Number / email 
 - Disciplins
 - Contact Us*
 - About GBC*

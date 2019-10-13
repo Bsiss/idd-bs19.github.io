@@ -34,29 +34,37 @@ This is my **review** project.
 
 ## Body
 - [hero section]
-- [(H1)Interaction Design G103 info]
+- [Interaction Design G103 info]
 - [Enroll buttonsxs]
-- [(H2)GBC School of Design]
--
-- (H4)
-- (H4)Skills Learned as an IDD Graduate
-- Program Comparison
+- [GBC School of Design]
+- [Skills learned]
+- [list]
+- [Educators]
+- [Images]
+- [Career outcomes]
+- [career prep]
+- [learn more section]
+- [Why school of design?]
 
--Footer
-    -Apply
-    -Visit Campus
-    -Connect*
-    -Disciplins
-    -Contact Us*
-    -About GBC*
-    -A to Z Index
-    -Socail Icons*
+## Footer
+- Connect
+ - Twitter / Facebook / Instagram
+- Contact Us
+ - Number / email / 
+- Disciplins
+- Contact Us*
+- About GBC*
+- A to Z Index
+- Socail Icons*
 <!--scoial icons or text?-->
-- Buttons
-    -Enroll Button
-    -Possibly a View Course Package Button, request
+## Buttons
+- Enroll Button
+- Possibly a View Course Package Button, request
+- Learn More
+- International Students
+- Hamburger Menu + Contents
 
--Notes / Possible Content to use
+## My Personal Notes / Possible Content to use
     -Program title
     -course code
     -Apply Now / Domestic & International
@@ -78,13 +86,13 @@ This is my **review** project.
 
  ## Content Citation
 
- [skills-learned] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
- [Educators] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
- [Why-Choose] (https://www.georgebrown.ca/giving/school-of-design-investment-brochure.pdf)
- [] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+[skills-learned](https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+[Educators](https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+[Why-Choose](https://www.georgebrown.ca/giving/school-of-design-investment-brochure.pdf)
+[list] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
 
-[Career-Preparation] (https://generalassemb.ly/education/user-experience-design-immersive/toronto) +
+[Career-Preparation](https://generalassemb.ly/education/user-experience-design-immersive/toronto) +
 (https://brainstation.io/course/toronto/user-experience-immersive)
 
-[Career-outcomes] (https://www.georgebrown.ca/programs/interaction-design-and-development-program-g103/)
+[Career-outcomes](https://www.georgebrown.ca/programs/interaction-design-and-development-program-g103/)
 

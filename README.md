@@ -51,18 +51,30 @@ This is my **review** project.
 -Twitter / Facebook / Instagram
 - Contact Us
  -Number / email 
-- Disciplins
-- Contact Us*
-- About GBC*
-- A to Z Index
-- Socail Icons*
-<!--scoial icons or text?-->
+- Info 
+ -Events / About Us / Visit Campus / News
+- Diciplins 
+ -Technology / Design / Development / 3D Design / Video Game Design
+
 ## Buttons
 - Enroll Button
 - Possibly a View Course Package Button, request
 - Learn More
 - International Students
 - Hamburger Menu + Contents
+
+## Font
+- Poppins Family
+
+## Color Pallet
+- #000 Black
+- #FCFAFF Off white
+- #4177A6 Blue
+- #F2D64B Yellow
+- #F25050 red
+
+## Planning & Documantation
+- Wireframes and color palette are in a folder named "Planning & Documentation"
 
 ## My Personal Notes / Possible Content to use
     -Program title
@@ -87,9 +99,12 @@ This is my **review** project.
  ## Content Citation
 
 [skills-learned](https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+
 [Educators](https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+
 [Why-Choose](https://www.georgebrown.ca/giving/school-of-design-investment-brochure.pdf)
-[list] (https://generalassemb.ly/education/user-experience-design-immersive/toronto)
+
+[list](https://generalassemb.ly/education/user-experience-design-immersive/toronto)
 
 [Career-Preparation](https://generalassemb.ly/education/user-experience-design-immersive/toronto) +
 (https://brainstation.io/course/toronto/user-experience-immersive)

@@ -23,18 +23,21 @@ This is my **review** project.
 - [Global-Navigation]
 - [Logo/Home]
 - [Portfolio]
-- [Education]
-- [Qualifications/Careers/Postgrad-oppourtunities]
-- [Admissions]
+- [Programs]
+- [Buisseness-solutions]
+- [Student-Life]
+- [Contact-us]
     
     
 - Local Navigation 
-    - Contents to accomidate and complement for global navigation selections.
+    - [Contents to accomidate and complement for global navigation selections.]
 
 - Body
-    -(H1)Interaction Design G103 
-    -(H2)GBC School of Design
-    -(H3)Program Overview
+    -[hero section]
+    -[(H1)Interaction Design G103 info]
+    -[Enroll buttonsxs]
+    -[(H2)GBC School of Design]
+    -
     -(H4)
     -(H4)Skills Learned as an IDD Graduate
     -Program Comparison

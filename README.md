@@ -20,12 +20,12 @@ This is my **review** project.
 - [General Assembly](https://generalassemb.ly/education/learn-user-experience-design-online)
 
 ## Content List
-- Global Navigation
-- Logo / Home
-- Portfolio
-- Education
-- Qualifications / Careers / Postgrad - oppourtunities
-- Admissions
+- [Global-Navigation]
+- [Logo/Home]
+- [Portfolio]
+- [Education]
+- [Qualifications/Careers/Postgrad-oppourtunities]
+- [Admissions]
     
     
 - Local Navigation 

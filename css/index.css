@@ -198,6 +198,13 @@
 	transition: color 0.4s ease;
 }
 
+#mySearch {
+	width: 100%;
+	font-size: 18px;
+	padding: 11px;
+	border: 1px solid #ddd;
+  }
+
 /*Main Body*/
 .section-container {
 	text-align: center;

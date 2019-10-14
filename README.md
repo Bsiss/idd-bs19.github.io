@@ -27,6 +27,7 @@ This is my **review** project.
 - [Buisseness-solutions]
 - [Student-Life]
 - [Contact-us]
+- [Search]
     
     
 - Local Navigation 

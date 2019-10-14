@@ -58,7 +58,6 @@ This is my **review** project.
 
 ## Buttons
 - Enroll Button
-- Possibly a View Course Package Button, request
 - Learn More
 - International Students
 - Hamburger Menu + Contents
